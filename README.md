@@ -2,10 +2,8 @@
 
 In this project, LSTM, RNN, and 1D-CNN models are developed for regression and classification tasks using time series data. 
 
-Objectives:
-
-Regression objective: Predicting the remaining useful life (RUL) of a machine
-
+Objectives:  
+Regression objective: Predicting the remaining useful life (RUL) of a machine  
 Classification objective: Predicting the failure of machine in upcoming specific periods
 
 Dataset:
