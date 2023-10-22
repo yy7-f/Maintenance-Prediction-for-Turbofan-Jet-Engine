@@ -1,6 +1,6 @@
 # Maintenance-Prediction-for-Turbofan-Jet-Engine
 
-In this project, time series data analysis is conducted for regression and classification using LSTM, RNN, and 1DCNN. 
+In this project, LSTM, RNN, and 1D-CNN models are developed for regression and classification tasks using time series data. 
 
 Objectives:
 Regression objective: Predicting the remaining useful life (RUL) of a machine
